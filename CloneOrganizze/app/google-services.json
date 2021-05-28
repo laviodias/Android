@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717322924172",
+    "firebase_url": "https://organizze-72710-default-rtdb.firebaseio.com",
+    "project_id": "organizze-72710",
+    "storage_bucket": "organizze-72710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717322924172:android:eaa89ce895f3a5ad20cba9",
+        "android_client_info": {
+          "package_name": "com.example.cloneorganizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717322924172-scobkrcbp3kufsh62nn63ui847p40d00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloneorganizze",
+            "certificate_hash": "0466f5867377c1db01e29a0dd26ce10a1a83a238"
+          }
+        },
+        {
+          "client_id": "717322924172-3p1qbrcjjr1ohfbtrc6qr6o8o0q2f92b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUgzcRzoCWNgJpGE22BwKJsa1_1kcS5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717322924172-3p1qbrcjjr1ohfbtrc6qr6o8o0q2f92b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
